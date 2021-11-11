@@ -1,8 +1,10 @@
 package hu.petrik;
 
+import hu.petrik.Excersise.TukorSzoEllenorzo;
+
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
+        TukorSzoEllenorzo.Run("A cápa ededele apáca.");
     }
 }
